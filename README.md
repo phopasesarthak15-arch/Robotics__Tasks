@@ -47,3 +47,24 @@ Image processing is the foundation of computer vision.
 ### 5️.Thresholding
 - Converts images into binary
 - Used for object segmentation
+
+## Explore Computer Vision Concepts
+Computer Vision enables machines to **interpret and understand visual data** like humans.
+### Key Concepts:
+- **Image & Video Processing**
+- **Pixels and Resolution**
+- **Contours** 
+- **Feature Detection** 
+- **Object Detection vs Image Classification**
+  - *Classification*: What is in the image?
+  - *Detection*: Where is the object in the image?
+## Tools & Technologies Used
+- OpenCV Library
+- C++ / Python
+- Images captured using camera  
+
+---
+
+In robotics, OpenCV acts as the **Eyes of the Robot**.
+
+---
