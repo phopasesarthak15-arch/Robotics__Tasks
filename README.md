@@ -106,3 +106,33 @@ This makes YOLO suitable for:
    - Confidence score
    - Bounding box coordinates
 4. Final detections are filtered using confidence thresholds
+
+## Difference Between Detection and Classification
+### Image Classification
+It shows what is in the Image.
+<br>
+Does not shows the exact Loaction of the object.
+<br>
+**Example:**  
+> "This image contains a dog"
+
+### Object Detection (YOLO)
+It shows what objects present in the Image and the location of the object.
+<br>
+It can also detects multiple objects and draws bounding boxes around objects. 
+<br>
+**Example:**  
+> "Dog at top-left, Person at center, Car at right"
+
+## Applications of YOLO
+- Autonomous robots
+- Self-driving cars
+- Face and object detection
+- Smart cameras
+- Industrial automation
+
+## Tools & Technologies Studied
+- YOLO Models
+- Computer Vision fundamentals
+- Deep Learning basics 
+- Image and video inputs
