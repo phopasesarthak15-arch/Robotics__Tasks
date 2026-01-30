@@ -1,7 +1,7 @@
 # ROBOTICS_TASKS
-## Domain: CODING
 ### Name: Sarthak Phopase
-### **Research And Study**
+## Domain: CODING
+### Research And Study
 1.Study OpenCV
 <br>
 2.Research YOLO Models
