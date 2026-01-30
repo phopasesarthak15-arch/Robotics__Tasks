@@ -1,5 +1,6 @@
 # ROBOTICS_TASKS
 ## Domain: CODING
+### Name: Sarthak Phopase
 ### **Research And Study**
 1.Study OpenCV
 <br>
@@ -68,3 +69,40 @@ Computer Vision enables machines to **interpret and understand visual data** lik
 In robotics, OpenCV acts as the **Eyes of the Robot**.
 
 ---
+# 2. Research YOLO Models
+## Introduction
+This repository contains study on **YOLO** (You Only Look Once) models, which are used for **Real-time object detection**.
+
+
+## What is YOLO?
+YOLO is a **real-time object detection algorithm** that detects objects in an image using a **single forward pass of a neural network**.
+<br>
+Unlike traditional methods that scan an image multiple times, YOLO looks at the **entire image only once**, making it extremely **fast and efficient**.
+### Characteristics:
+- Real-time detection
+- High speed and Accuracy
+- Detects multiple objects at once
+- Provides object **class + location**
+
+## What Does YOLO Do? 
+YOLO can:
+- Identify what objects are present in an image  
+- Determine where the objects are located  
+- Draw bounding boxes around detected objects  
+### Example Outputs:
+- Person detected at (x, y, width, height)
+- Car detected with 92% confidence
+- Multiple objects detected in a single frame
+This makes YOLO suitable for:
+- Autonomous vehicles
+- Surveillance systems
+- Robotics vision
+- Traffic monitoring
+### How YOLO Works
+1. Input image is divided into a grid
+2. Each grid predicts bounding boxes
+3. Each box contains:
+   - Object class
+   - Confidence score
+   - Bounding box coordinates
+4. Final detections are filtered using confidence thresholds
