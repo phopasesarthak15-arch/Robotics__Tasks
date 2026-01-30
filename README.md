@@ -11,8 +11,7 @@ This Repository contains the study and research on **OpenCV**(Open Source Comput
 The Focus is on understanding core concepts,**image processing techniques**,and how robots use vision to interact with real world. 
 
 ## What is OpenCV?
-OpenCV is an **open-source library** used for **image and video processing**.
-<br>
+OpenCV is an **open-source library** used for **image and video processing**.<br>
 Tools OpenCV provides:
 - Read and process images
 - Detect objects, faces, and edges
@@ -30,3 +29,21 @@ Robots use OpenCV to **see, analyze, and make decisions** based on input from ca
 - **Obstacle Avoidance** – Identifying obstacles using Vision
 - **Face Recognition** – Used in security
 - **Navigation** – Assisting robots to move smartly
+
+## Basic Image Processing Tasks
+Image processing is the foundation of computer vision.  
+### 1️.Image Reading & Display
+- Load images from files or camera
+- Display images on screen
+### 2️.Grayscale Conversion
+- Converts colored images into shades of gray
+- Reduces complexity and processing time
+### 3️.Image Blurring
+- Reduces noise from images
+- Helps in smoother edge detection
+### 4️.Edge Detection
+- Detects boundaries of objects
+- Helps in shape and object recognition
+### 5️.Thresholding
+- Converts images into binary
+- Used for object segmentation
